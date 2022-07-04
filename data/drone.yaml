@@ -1,5 +1,5 @@
-train: /home/systemtrio/Desktop/yolov5/drone-net/dataset/images/train
-val:  /home/systemtrio/Desktop/yolov5/drone-net/dataset/images/val
+train: /home/systemtrio/Desktop/kh/yolov5/drone-net/dataset/images/train
+val:  /home/systemtrio/Desktop/kh/yolov5/drone-net/dataset/images/val
 #test: ../Road_Sign_Dataset/images/test/
 
 # number of classes
